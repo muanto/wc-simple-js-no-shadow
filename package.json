@@ -1,0 +1,15 @@
+{
+  "name": "@wcd/muanto.wc-simple-js-no-shadow",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "wcd-cli serve 86ex5c2uSI8UX5PciPWK --open"
+  },
+  "devDependencies": {
+    "wcd-cli": "latest"
+  },
+  "dependencies": {}
+}
